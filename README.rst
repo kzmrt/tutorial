@@ -10,9 +10,9 @@ Requirement
 ===========
 
 :Python: 3.7.0
-:Django: 2.2.3
-:djangorestframework: 3.9.2
-:pytz: 2018.9
+:Django: 2.2.4
+:djangorestframework: 3.10.2
+:pytz: 2019.2
 
 Quick start
 ===========
